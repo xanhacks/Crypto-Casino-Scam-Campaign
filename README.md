@@ -111,7 +111,7 @@ Several uncovered backend IP addresses suggest highly automated deployment proce
 
 ### Open Directory Findings
 
-One server (`77.239.120.21`) exposed an Apache Open Directory on port 443 due to a misconfiguration (HTTP served over HTTPS). The directory contained a large amount of internal material, including:
+One server (`146.185.239.62`) exposed an Apache Open Directory on port 443 due to a misconfiguration (HTTP served over HTTPS). The directory contained a large amount of internal material, including:
 
 - Static casino templates (HTML, CSS, and JavaScript files)
 - Automated deployment scripts written in Bash, with comments in Russian
